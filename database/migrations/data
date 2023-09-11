@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "name": "Mr. Johnnie Marvin DDS",
+    "email": "theron.johnston@example.org",
+    "email_verified_at": "2023-09-10 16:10:15",
+    "password": "$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+    "remember_token": "gY5BbEFPuq",
+    "created_at": "2023-09-10 16:10:15",
+    "updated_at": "2023-09-10 16:10:15"
+  },
+  {
+    "id": "2",
+    "name": "Christine Steuber III",
+    "email": "meredith66@example.net",
+    "email_verified_at": "2023-09-10 16:10:15",
+    "password": "$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+    "remember_token": "XNpArBqlwe",
+    "created_at": "2023-09-10 16:10:15",
+    "updated_at": "2023-09-10 16:10:15"
+  },
+  {
+    "id": "3",
+    "name": "Zane Koelpin",
+    "email": "karlee24@example.org",
+    "email_verified_at": "2023-09-10 16:10:15",
+    "password": "$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+    "remember_token": "OOCYYcOpX0",
+    "created_at": "2023-09-10 16:10:15",
+    "updated_at": "2023-09-10 16:10:15"
+  },
+  {
+    "id": "4",
+    "name": "Renee Berge V",
+    "email": "walter.brakus@example.net",
+    "email_verified_at": "2023-09-10 16:10:15",
+    "password": "$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+    "remember_token": "G8iFtGTKFh",
+    "created_at": "2023-09-10 16:10:15",
+    "updated_at": "2023-09-10 16:10:15"
+  },
+  {
+    "id": "5",
+    "name": "Liana Hodkiewicz MD",
+    "email": "okuneva.keenan@example.org",
+    "email_verified_at": "2023-09-10 16:10:15",
+    "password": "$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+    "remember_token": "CaOmcYaap0",
+    "created_at": "2023-09-10 16:10:15",
+    "updated_at": "2023-09-10 16:10:15"
+  }
+]
